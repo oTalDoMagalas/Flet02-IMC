@@ -1,6 +1,6 @@
- ## Projeto feito com Python e Flet, uma calculadora de IMC
+ # Projeto feito com Python e Flet, uma calculadora de IMC
 
-# Funcionalidades:
+### Funcionalidades:
 
 - Entrada de peso (kg) e altura (m).
 
